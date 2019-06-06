@@ -30,3 +30,8 @@ Para la implementación del builder la fabrica abstrata deja de ser relevante po
 ![adapter](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/adapter.png)
 
 Para la implementación del adapter se uso la fabrica ogro del proyecto seleecionado. El personaje solo tiene un arma primaria y un arma secundaria, se crea el adaptador para que la clase orco sea compatible con el constructor y así al momento de usar la clase del personaje permita mostrar lo que viene con el personaje, aparte de las clases creadas para complementarlo.
+
+## Decorator
+
+![decorator](https://github.com/cristianrodriguez05/CatalogoPJFuego/blob/master/diagramas/decorator.png)
+
