@@ -34,4 +34,4 @@ Para la implementación del adapter se uso la fabrica ogro del proyecto seleecio
 ## Decorator
 
 ![decorator](https://github.com/cristianrodriguez05/CatalogoPJFuego/blob/master/diagramas/decorator.png)
-
+Para poder dar una anmacion del erosnaje en llamas se usa el decorator, hay una clase abrstracta decorator_personaje y una clase fuego la cual hace un extend de la abstracta. Cuando se presiona el botón de poder el personaje usar el decorator creando el fuego que lo cubrira con el metodo en fuego.
